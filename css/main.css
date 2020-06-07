@@ -12,3 +12,42 @@
 .image-link{
       text-decoration: none;
 }
+
+.header {
+      text-align: center; 
+      margin: 0 0 80px;
+}
+
+.blockquote-index {
+      padding: 2px 20px;
+      background: #b5b5b5;
+}
+
+.book-report {
+      width: 500px; 
+      margin: 20px auto; 
+      padding: 30px; 
+      background-color: #fafafa;
+}
+
+.whale-image {
+      display: block; 
+      margin: 0 auto;   
+}
+
+.book-image {
+      float: left; 
+      margin: 0 40px 0 0;
+}
+
+.blockquote-moby-dick {
+      font-style: italic; 
+      font-size: 20px;
+}
+
+.span-quote {
+      font-style: normal; 
+      font-size: 24px; 
+      font-weight: bold; 
+      color: #ff0000;
+}
